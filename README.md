@@ -15,6 +15,7 @@ I am always looking for new and useful information
 ![Webpack](https://img.shields.io/badge/-Webpack-8ed5fa?logo=webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-eb4a4b?logo=gulp&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-ce679a?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8412fc?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 <!-- ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML) -->
 <!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
