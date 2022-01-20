@@ -11,6 +11,7 @@ I am always looking for new and useful information
 ![HTML](https://img.shields.io/badge/-HTML-e54c21?logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-cb3837?logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 <!-- ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML) -->
 <!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
