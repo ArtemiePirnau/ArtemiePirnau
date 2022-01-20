@@ -2,9 +2,9 @@
 
 ## I'm a student and i love programming
 - :man_technologist: I' currently working on my website
-- I'm currently learning ... React.JS
+- :computer: I'm currently learning ... React.JS
 - :open_book: Fun fact: I love to read
-- Fun fact  :man_cartwheeling: I'm a workout athlete 
+- :man_cartwheeling: Fun fact I'm a workout athlete 
 ## Languages and Tools
 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png)
