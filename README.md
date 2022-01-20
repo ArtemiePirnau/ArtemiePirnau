@@ -16,4 +16,4 @@ I am always looking for new and useful information
 ![NPM](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/40px-Npm-logo.svg.png) 
 ![Gulp](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/20px-Gulp.js_Logo.svg.png) 
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png) 
-![Pug](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/index.png)
+![Pug](https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/4.0.0/1557863046125/Microsoft.VisualStudio.Services.Icons.Default)
