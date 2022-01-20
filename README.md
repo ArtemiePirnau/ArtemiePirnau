@@ -4,7 +4,7 @@
 - :man_technologist: I'm currently working on my website
 - :computer: I'm currently learning React JS
 - :stars: Fun fact: I love to read and i'm workout athlete
-- :hearts: I love to write code adn read about it
+- :hearts: I love to write code and read about it
 ## Languages and Tools
 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
