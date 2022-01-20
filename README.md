@@ -4,7 +4,7 @@
 
 ## Languages and Tools
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/100px-JavaScript-logo.png)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png)
 </br>
 ![CSS](https://img.shields.io/badge/CSS-1572B6??style=for-the-badge&logo=css)
 </br>
