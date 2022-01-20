@@ -4,4 +4,4 @@
 
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-<COLOR>)
+![HTML](https://img.shields.io/badge/HTML-<COLOR>??style=for-the-badge&logo=appveyor)
