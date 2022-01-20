@@ -1,7 +1,7 @@
 ![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg)
 
 ## I'm a student and i love programming
-
+- I'm currently learning ... React.JS
 ## Languages and Tools
 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png)
