@@ -9,7 +9,8 @@ I am always looking for new and useful information
 - :hearts: I love to write code and read about it
 ## Languages and Tools
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=red)
+<!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) 
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png) 
 ![SCSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/40px-Sass_Logo_Color.svg.png) 
@@ -17,4 +18,4 @@ I am always looking for new and useful information
 ![Gulp](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/20px-Gulp.js_Logo.svg.png) 
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png) 
 ![Pug](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/Microsoft.VisualStudio.Services.Icons.Default.png)
-![Webpack](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/57db1ce976144a8caedecc3239ba2d99.png)
+![Webpack](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/57db1ce976144a8caedecc3239ba2d99.png) -->
