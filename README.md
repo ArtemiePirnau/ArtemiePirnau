@@ -5,7 +5,5 @@
 ## Languages and Tools
 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png)
-</br>
-![CSS](https://img.shields.io/badge/CSS-1572B6??style=for-the-badge&logo=css)
-</br>
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd83a??style=for-the-badge&logo=js)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/30px-CSS3_logo_and_wordmark.svg.png)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png)
