@@ -1,7 +1,7 @@
 ![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg)
 
 ## I'm a student and i love programming
-- I' currently working on my website
+- :man_technologist: I' currently working on my website
 - I'm currently learning ... React.JS
 - Fun fact: I love to read and i'm a workout athlete 
 ## Languages and Tools
