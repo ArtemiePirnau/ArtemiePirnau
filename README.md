@@ -3,8 +3,7 @@
 ## I'm a student and i love programming
 - :man_technologist: I'm currently working on my website
 - :computer: I'm currently learning React.JS
-- :open_book: Fun fact: I love to read
-- :man_cartwheeling: Sport: Calisthenic
+- :stars: Fun fact: I love to read and i'm Workout athlete
 ## Languages and Tools
 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png)
