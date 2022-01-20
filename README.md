@@ -5,7 +5,7 @@ I am always looking for new and useful information
 ## I'm a student and i love programming
 - :man_technologist: I'm currently working on my website
 - :computer: I'm currently learning React JS
-- :stars: Fun fact: I love to read and i'm workout athlete
+- :stars: Fun fact: I love to read books and i'm workout athlete
 - :hearts: I love to write code and read about it
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-e54c21?logo=HTML5&logoColor=white)
