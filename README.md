@@ -8,7 +8,8 @@ I am always looking for new and useful information
 - :stars: Fun fact: I love to read and i'm workout athlete
 - :hearts: I love to write code and read about it
 ## Languages and Tools
-![HTML](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 <!-- ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML) -->
 <!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) 
