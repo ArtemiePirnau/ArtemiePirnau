@@ -20,13 +20,5 @@ I am always looking for new and useful information
 ![Github](https://img.shields.io/badge/-Github-14191e?logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-f05030?logo=vscode&logoColor=white)
-<!-- ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML) -->
-<!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png) 
-![SCSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/40px-Sass_Logo_Color.svg.png) 
-![NPM](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/40px-Npm-logo.svg.png) 
-![Gulp](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/20px-Gulp.js_Logo.svg.png) 
-![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png) 
-![Pug](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/Microsoft.VisualStudio.Services.Icons.Default.png)
-![Webpack](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/57db1ce976144a8caedecc3239ba2d99.png) -->
+## Social Media
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png)(https://www.instagram.com/artemie.js/)]
