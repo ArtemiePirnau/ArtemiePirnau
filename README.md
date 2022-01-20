@@ -1,5 +1,7 @@
 ![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg)
-
+## About me
+- Hi, i'm Pirnau Artemie
+- 
 ## I'm a student and i love programming
 - :man_technologist: I'm currently working on my website
 - :computer: I'm currently learning React JS
