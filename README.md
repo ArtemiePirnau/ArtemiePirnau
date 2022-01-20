@@ -1,4 +1,4 @@
-![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg)
+<!-- ![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg) -->
 ## About me
 - Hi, i'm Pirnau Artemie, a student. Enthusiast of web development. I always try to grow and study something new and interesting. 
 I am always looking for new and useful information
