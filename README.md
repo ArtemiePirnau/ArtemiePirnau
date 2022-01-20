@@ -21,4 +21,4 @@ I am always looking for new and useful information
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-f05030?logo=vscode&logoColor=white)
 ## Social Media
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png)(https://www.instagram.com/artemie.js/)]
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png)](https://www.instagram.com/artemie.js/)
