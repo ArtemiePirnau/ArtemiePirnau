@@ -17,3 +17,4 @@ I am always looking for new and useful information
 ![Gulp](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/20px-Gulp.js_Logo.svg.png) 
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png) 
 ![Pug](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/Microsoft.VisualStudio.Services.Icons.Default.png)
+![Webpack](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/57db1ce976144a8caedecc3239ba2d99.png)
