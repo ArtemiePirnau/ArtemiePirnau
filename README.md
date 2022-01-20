@@ -2,7 +2,6 @@
 ## About me
 - Hi, :wave: i'm Pirnau Artemie, a student. Enthusiast of web development. I always try to grow and study something new and interesting. 
 I am always looking for new and useful information
-## I'm a student and i love programming
 - :man_technologist: I'm currently working on my website
 - :computer: I'm currently learning React JS
 - :stars: Fun fact: I love to read books and i'm workout athlete
