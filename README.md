@@ -12,4 +12,5 @@
 ![SCSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/40px-Sass_Logo_Color.svg.png)
 ![NPM](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/40px-Npm-logo.svg.png)
 ![Gulp](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/20px-Gulp.js_Logo.svg.png)
-![Webpack](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Webpack-logo.svg/40px-Npm-logo.svg.png)
+![Webpack](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/webpack.png)
+
