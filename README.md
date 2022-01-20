@@ -4,4 +4,4 @@
 
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-<e5622a>??style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/HTML-<#e5622a>??style=for-the-badge&logo=html)
