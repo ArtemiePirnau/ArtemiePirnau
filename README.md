@@ -19,7 +19,7 @@ I am always looking for new and useful information
 ![Git](https://img.shields.io/badge/-Git-f05030?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-14191e?logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS Code-f05030?logo=vscode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-f05030?logo=vscode&logoColor=white)
 <!-- ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML) -->
 <!-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) 
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) 
