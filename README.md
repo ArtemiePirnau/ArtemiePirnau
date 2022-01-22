@@ -17,6 +17,7 @@ I am always looking for new and useful information
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8412fc?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05030?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-14191e?logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-14191e?logo=photoshop&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ## Contact me
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png)](https://www.instagram.com/artemie.js/)
