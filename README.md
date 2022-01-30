@@ -1,4 +1,5 @@
-<!-- ![Header](https://github.com/ArtemiePirnau/ArtemiePirnau/blob/main/banner.jpg) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemiePirnau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemiePirnau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## About me
 - Hi, :wave: i'm Pirnau Artemie, a student. Enthusiast of web development. I always try to grow and study something new and interesting. 
 I am always looking for new and useful information
@@ -24,5 +25,3 @@ I am always looking for new and useful information
 ## Contact me
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png)](https://www.instagram.com/artemie.js/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemiePirnau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemiePirnau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
