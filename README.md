@@ -13,7 +13,7 @@ I am always looking for new and useful information
 ![jQuery](https://img.shields.io/badge/-jQuery-1b75bb?logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8ed5fa?logo=webpack&logoColor=white)
+![Webpack](https://img.shields.io/badge/-WebPack-8ed5fa?logo=webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-eb4a4b?logo=gulp&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-ce679a?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8412fc?logo=bootstrap&logoColor=white)
