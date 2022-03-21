@@ -18,7 +18,7 @@ I am always looking for new and useful information
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-ce679a?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8412fc?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05030?logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-14191e?logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-14191e?logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31a8ff?logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-f24d18?logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-31a8ff?logo=wordpress&logoColor=white)
