@@ -8,16 +8,17 @@ I am always looking for new and useful information
 - :stars: Fun fact: I love to read books and i'm workout athlete
 - :hearts: I love to write code and read about it
 ## Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-e54c21?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-1b75bb?logo=jquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/-WebPack-8ed5fa?logo=webpack&logoColor=white)
-![Gulp](https://img.shields.io/badge/-Gulp-eb4a4b?logo=gulp&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS/SCSS-ce679a?logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-8412fc?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05030?logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-GitHub-14191e?logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31a8ff?logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-f24d18?logo=figma&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
